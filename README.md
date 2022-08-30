@@ -10,7 +10,7 @@ Location:        El salam, Suez, Egypt
 Email:           hishamsa911@gmail.com
 phone number:    +20 109 366 5582
 ```
-> I have over 2 years of experience in administration and management roles, I was responsible for the support, administration, and organization of a wide variety of tasks. I have taken charge of the management of employee scheduling, daily administrative functions, and other vital organizational project tasks.
+> I have one year of experience in administration and management roles, I was responsible for the support, administration, and organization of a wide variety of tasks. I have taken charge of the management of employee scheduling, daily administrative functions, and other vital organizational project tasks.
 
 ## Professional Experience 
 

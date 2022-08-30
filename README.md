@@ -10,11 +10,7 @@ Location:        El salam, Suez, Egypt
 Email:           hishamsa911@gmail.com
 phone number:    +20 109 366 5582
 ```
-##  <img style="width:5%" alt="aboueMe" src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png">  Education
-
-**Bachelor’s Degree in Bachelor of Information Systems and administrative**
-<br>
-From faculty of Suez Institute for Management Information Systems, Suez, Overall Grade: Very Good
+# I have over 2 years of experience in administration and management roles, I was responsible for the support, administration, and organization of a wide variety of tasks. I have taken charge of the management of employee scheduling, daily administrative functions, and other vital organizational project tasks.
 
 ## Professional Experience 
 
@@ -34,10 +30,20 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
     - Product Seller.
     - Store manger.
 
+##  <img style="width:5%" alt="aboueMe" src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png">  Education
+
+**Bachelor’s Degree in Bachelor of Information Systems and administrative**
+<br>
+From faculty of Suez Institute for Management Information Systems, Suez, Overall Grade: Very Good
+
+
+
 ## Technical skills 📚
 - Word
 - Excel
 - Adobe photoshop
+- HTML
+- CSS
 
 <br>
 

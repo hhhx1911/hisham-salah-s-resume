@@ -1,6 +1,6 @@
 # Hisham Salah resume
 
-## About Me <img style="width:5%" alt="aboueMe" src="https://cdn-icons-png.flaticon.com/512/189/189664.png"> 
+## <img style="width:5%" alt="aboueMe" src="https://cdn-icons-png.flaticon.com/512/189/189664.png">  About Me 
 ```
 Full Name:       Hisham Salah el-den abd-elsattar 
 Date of Birth:   14th of November 1996
@@ -10,96 +10,45 @@ Location:        El salam, Suez, Egypt
 Email:           hishamsa911@gmail.com
 phone number:    +20 109 366 5582
 ```
-## Education <img style="width:5%" alt="aboueMe" src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png"> 
+##  <img style="width:5%" alt="aboueMe" src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png">  Education
 
 **Bachelor’s Degree in Bachelor of Information Systems and administrative**
 <br>
 From faculty of Suez Institute for Management Information Systems, Suez, Overall Grade: Very Good
 
-## Professional Experience 🚀
+## Professional Experience 
 
-### 1. Full Stack  @ [Iksib]
-> a multi-tenancy [Store] website, Users can register to make thier own  sub-domain,
-> Making/Providing dashboard for them to have full control of the website.
+### 1. Suez Sector Administrator at Pro-secure (ps9)
+> Local security company 
+> It has branches in many regions such as suez and sini
 
-**Technologies-Packages used** 
-    - [laravel](https://laravel.com/)
-    - [Livewire](https://laravel-livewire.com/)
-    - [tenancyforlaravel](https://tenancyforlaravel.com/saas-boilerplate/)
-    - [Hesabe Payment](https://www.hesabe.com/)
+**Role/s** 
+    - Human resources.
+    - Employee relations.
+    - Finance management.
 
+### 2. Product Seller at various shops
+> I learned how to communicate and understand the customers well and how to achieve their needs
 
-### 2. Backend  [Freelancing] - [Topart](https://topart.services/)
-> A site for car parts with a chat and control panel for sellers.
-
-1. Edit Database
-2. Add chat(munafio/chatify) to the application & Edit it To satisfy our application needs.
-3. Handling most of the Frontend work
-4. Making CRUDs
-5. Making RESTful API 
-
-**Technologies-Packages used** 
-    - [laravel](https://laravel.com/)
-    - [Livewire](https://laravel-livewire.com/)
-    - [metronic](https://keenthemes.com/metronic/)
-    - [chatify](https://github.com/munafio/chatify)
-
-
-### 3. Backend  [Test] for [o-porjects](https://www.o-projects.org/)
-> Making restaurant reservation APIs.
-
-1. Making ERM 
-2. Making CRUD - & reservations Considering reservations dates 
-3. Writing API documentation
-
-
-### 4. Full Stack  [Training] for [Cinema Devotion](https://moviesarea.hassaneida.com/)
-> A site about movies and series news, Using TMDB API
-
-**Technologies-Packages used** 
-    - [laravel](https://laravel.com/)
-    - [Livewire](https://laravel-livewire.com/)
-    - [alpinejs](https://alpinejs.dev/)
-
-### 5. Full Stack  [Training] for [AlaSalaty](https://www.salah.hassaneida.com/ranking)
-> Creating website to track prayers and users gaining points for every pray they do,
-> with leaderboard for all users with thier level and points
-
-**Technologies-Packages used** 
-    - [laravel](https://laravel.com/)
-    - [Livewire](https://laravel-livewire.com/)
-
-### 6. Full Stack  [Training] for [Covid-19 Tracker](https://covid19tracker.hassaneida.com/)
-> SPA website for tracking covid Cases and deaths 
-
-**Technologies-Packages used** 
-    - [Vuejs](https://vuejs.org/)
-
+**Role/s** 
+    - Product Seller.
+    - Store manger.
 
 ## Technical skills 📚
-- laravel
-- Livewire
-- HTML ,CSS ,Sass
-- Bootstrap
-- Tailwindcss
-- JavaScript , Jquery
-- MySQL
-- Github
-- RESTful API
-- Database Design
+- Word
+- Excel
+- Adobe photoshop
 
 <br>
 
 ## Languages 💬
 
 **Arabic**   : Native 
-**Engllish** : Very Good
+**Engllish** : Good
 
 ## Online Presence 🔗 
 
-- [Facebook](https://www.facebook.com/profile.php?id=100021391685332) <img style="width:3%" alt="Facebook" src="assets/facebook.svg"> 
-- [instagram](https://www.instagram.com/yomi_74/) <img style="width:3%" alt="instagram" src="assets/instagram.svg"> 
+- [Facebook](https://www.facebook.com/HishamSa1196) <img style="width:3%" alt="Facebook" src="https://img.icons8.com/fluency/344/facebook-new.png"> 
+- [instagram](https://www.instagram.com/hishaam_sa/) <img style="width:3%" alt="instagram" src="assets/instagram.svg"> 
 - [linkedin](https://www.linkedin.com/in/eslam-abdallah-882480170/) <img style="width:3%" alt="linkedIn" src="assets/linkedIn.svg"> 
-- [stack overflow](https://stackoverflow.com/users/16155054/eslam-abdallah-abass) <img style="width:3%" alt="stackoverflow" src="assets/stackoverflow.svg"> 
-- [My Personal website](https://eslamabdallah.hassaneida.com/) <img style="width:3%" alt="Facebook" src="https://eslamabdallah.hassaneida.com/assets/img/favicon.ico"> 
 

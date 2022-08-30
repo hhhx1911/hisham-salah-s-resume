@@ -48,7 +48,6 @@ From faculty of Suez Institute for Management Information Systems, Suez, Overall
 
 ## Online Presence 🔗 
 
-- [Facebook](https://www.facebook.com/HishamSa1196) <img style="width:3%" alt="Facebook" src="https://img.icons8.com/fluency/344/facebook-new.png"> 
-- [instagram](https://www.instagram.com/hishaam_sa/) <img style="width:3%" alt="instagram" src="assets/instagram.svg"> 
-- [linkedin](https://www.linkedin.com/in/eslam-abdallah-882480170/) <img style="width:3%" alt="linkedIn" src="assets/linkedIn.svg"> 
+- <img style="width:3%" alt="Facebook" src="https://img.icons8.com/fluency/344/facebook-new.png">  [Facebook](https://www.facebook.com/HishamSa1196)
+- <img style="width:3%" alt="instagram" src="https://img.icons8.com/fluency/344/instagram-new.png">  [instagram](https://www.instagram.com/hishaam_sa/) 
 

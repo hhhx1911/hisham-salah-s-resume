@@ -53,5 +53,5 @@ From faculty of Suez Institute for administrative Information Systems, Suez, Ove
 
 ## Online Presence 🔗 
 
-- [Facebook](https://www.facebook.com/HishamSa1196) <img style="width:3%" alt="Facebook" src="icons8-facebook.svg"> 
+- [Facebook](https://www.facebook.com/HishamSa1196) <img style="width:3%" alt="Facebook" src="assets/icons8-facebook.svg"> 
 - [instagram](https://www.instagram.com/hishaam_sa/) <img style="width:3%" alt="instagram" src="assets/icons8-instagram.svg"> 

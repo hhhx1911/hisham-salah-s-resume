@@ -1,6 +1,6 @@
 # Hisham Salah resume
 
-## <img style="width:5%" alt="aboueMe" src="https://cdn-icons-png.flaticon.com/512/189/189664.png">  About Me 
+## About Me 🌐
 ```
 Full Name:       Hisham Salah el-den abd-elsattar 
 Date of Birth:   14th of November 1996
@@ -30,7 +30,7 @@ phone number:    +20 109 366 5582 - 20 114 988 9003
     - Product Seller.
     - Store manger.
 
-##  <img style="width:5%" alt="aboueMe" src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png">  Education
+## Education 📚
 
 **Bachelor’s Degree in Bachelor of administrative Information Systems
 <br>
@@ -38,7 +38,7 @@ From faculty of Suez Institute for administrative Information Systems, Suez, Ove
 
 
 
-## Technical skills 📚
+## Technical skills 💻
 - Word
 - Excel
 - Adobe photoshop ( basics )

@@ -49,7 +49,7 @@ From faculty of Suez Institute for administrative Information Systems, Suez, Ove
 - Word
 - Excel
 - Adobe photoshop ( basics )
-- Adobe illustrator
+- Adobe illustrator ( basics )
 
 
 <br>

@@ -34,6 +34,7 @@ phone number:    +20 109 366 5582 - 20 114 988 9003
 >Led and managed all aspects of warehouse operations, overseeing inventory management, storage optimization, and order fulfillment
 >Successfully maintained accurate inventory records through meticulous tracking and regular physical counts, minimizing discrepancies and ensuring optimal stock levels.
 >Implemented strategic storage techniques that maximized capacity and accessibility, resulting in improved workflow efficiency.
+
 **Role/s** 
     - Storekeeper.
 

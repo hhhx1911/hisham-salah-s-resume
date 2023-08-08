@@ -40,7 +40,7 @@ phone number:    +20 109 366 5582 - 20 114 988 9003
 
 ## Education 📚
 
-**Bachelor’s Degree in Bachelor of administrative Information Systems
+Bachelor’s Degree in Bachelor of administrative Information Systems
 <br>
 From faculty of Suez Institute for administrative Information Systems, Suez, Overall Grade: Very Good
 

@@ -30,6 +30,8 @@ phone number:    +20 109 366 5582 - 20 114 988 9003
     - Product Seller.
     - Store manger.
 
+### 2. Storekeeper at [Food Nation](https://foodnationmena.com) 
+
 ## Education 📚
 
 **Bachelor’s Degree in Bachelor of administrative Information Systems

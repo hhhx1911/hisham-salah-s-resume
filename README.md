@@ -7,7 +7,7 @@ Date of Birth:    14th of November 1996
 Nationality:      Egypt
 Marital Status:   single
 Military service: Performed
-Location:         El salam, Suez, Egypt
+Location:         El Arbaen, Suez, Egypt
 Email:            hishamsa911@gmail.com
 phone number:     +20 109 366 5582 - 20 114 988 9003
 ```

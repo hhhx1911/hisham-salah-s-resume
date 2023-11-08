@@ -11,11 +11,12 @@ Location:         El Arbaen, Suez, Egypt
 Email:            hishamsa911@gmail.com
 phone number:     +20 109 366 5582 - 20 114 988 9003
 ```
-> I have one year of experience in administration and management roles, I was responsible for the support, administration, and organization of a wide variety of tasks. I have taken charge of the management of employee scheduling, daily administrative functions, and other vital organizational project tasks.
+> I have one year of experience in administration and management roles, I was responsible for administration, and organization of a wide variety of tasks. I have taken charge of the management of employee scheduling, daily administrative functions, and other organizational project tasks.
+> I also have one year of experience in storekeeping duties, such as managing warehouse layout, supervising other staff members, dealing with incoming and outgoing records, rotating the invintory to avoid any sort of damage and many of other responsibilities.
 
 ## Professional Experience 
 
-### 1. Suez Sector Administrator at Pro-secure (ps9)
+### 1. Suez Sector administrative assistant at Pro-secure (ps9)
 > Local security company 
 > It has branches in many regions such as suez and sinai
 
@@ -29,21 +30,20 @@ phone number:     +20 109 366 5582 - 20 114 988 9003
 
 **Role/s** 
     - Product Seller.
-    - Store manger.
+    - Store manager.
 
-### 3. Storekeeper at [Food Nation](https://foodnationmena.com) (Currently working)
->Led and managed all aspects of warehouse operations, overseeing inventory management, storage optimization, and order fulfillment
->Successfully maintained accurate inventory records through meticulous tracking and regular physical counts, minimizing discrepancies and ensuring optimal stock levels.
->Implemented strategic storage techniques that maximized capacity and accessibility, resulting in improved workflow efficiency.
+### 3. Storekeeper at [Food Nation](https://foodnationmena.com) 
+>Led and managed all aspects of warehouse operations, overseeing inventory management,
+>maintained accurate inventory records through meticulous tracking and regular physical counts, minimizing discrepancies and ensuring optimal stock levels.
 
 **Role/s** 
     - Storekeeper.
 
 ## Education 📚
 
-Bachelor’s Degree in Bachelor of administrative Information Systems
+Bachelor’s Degree in administrative Information Systems
 <br>
-From faculty of Suez Institute for administrative Information Systems, Suez, Overall Grade: Very Good
+From faculty of Suez Institute for administrative Information Systems, Suez
 
 
 
